@@ -1,0 +1,18 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box !important;
+}
+
+body {
+  margin: 0px;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+input {
+  outline: none;
+}
