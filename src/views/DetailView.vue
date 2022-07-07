@@ -12,7 +12,7 @@
           v-if="video"
           id="player"
           type="text/html"
-          :src="`http://www.youtube.com/embed/${video.id}`"
+          :src="`https://www.youtube.com/embed/${video.id}`"
           frameborder="0"
         ></iframe>
       </div>
